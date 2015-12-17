@@ -1,7 +1,7 @@
 
 var document;
 if (typeof window !== 'undefined') {
-	window.document;
+	document = window.document;
 }
 
 var app = '';
