@@ -5,13 +5,13 @@ This compact library helps you change the title of the document and flash notifi
 ## Basic Usage
 
 ```javascript
-var titler = require('titler');
+var title = require('doc-title');
 
-titler.setApp('AppName'); // title is 'AppName'
-titler.setPage('Home'); // title is 'AppName | Home'
-titler.setModifier('On The Range'); // title is 'AppName | Home | On The Range'
-titler.setSeparator(': '); // title is 'AppName: Home: On The Range'
+title.setApp('AppName'); // title is 'AppName'
+title.setPage('Home'); // title is 'AppName | Home'
+title.setModifier('On The Range'); // title is 'AppName | Home | On The Range'
+title.setSeparator(': '); // title is 'AppName: Home: On The Range'
 
-titler.flash('Where the deer and the buffalo roam'); // title is 'Where the deer and the buffalo roam' for 5 seconds, then resets
+title.flash('Where the deer and the buffalo roam'); // title is 'Where the deer and the buffalo roam' for 5 seconds, then resets
 ```
 

@@ -1,5 +1,5 @@
 {
-  "name": "titler",
+  "name": "doc-title",
   "version": "1.0.0",
   "description": "Easily set the documents title",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/compstak/titler.git"
+    "url": "git://github.com/compstak/doc-title.git"
   },
   "keywords": [
     "document",
@@ -18,7 +18,7 @@
   "author": "Stu Kabakoff <stuart@compstak.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/compstak/titler/issues"
+    "url": "https://github.com/compstak/doc-title/issues"
   },
-  "homepage": "https://github.com/compstak/titler#readme"
+  "homepage": "https://github.com/compstak/doc-title#readme"
 }
