@@ -1,6 +1,6 @@
 {
   "name": "doc-title",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily set the documents title",
   "main": "index.js",
   "scripts": {
